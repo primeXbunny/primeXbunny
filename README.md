@@ -108,11 +108,11 @@ Windows launcher with mod approval, capes and admin panel.
 
 <div align="center">
 
-<a href="https://github.com/primeXbunny/primex-website-v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=primeXbunny&repo=primex-website-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="primex-website-v2" /></a>
-<a href="https://github.com/primeXbunny/cinema-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=primeXbunny&repo=cinema-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="cinema-bot" /></a>
+<a href="https://github.com/primeXbunny/primex-website-v2"><img src="https://github-stats-extended.vercel.app/api/pin/?username=primeXbunny&repo=primex-website-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="primex-website-v2" /></a>
+<a href="https://github.com/primeXbunny/cinema-bot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=primeXbunny&repo=cinema-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="cinema-bot" /></a>
 <br/>
-<a href="https://github.com/primeXbunny/FTP-VPS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=primeXbunny&repo=FTP-VPS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="FTP-VPS" /></a>
-<a href="https://github.com/primeXbunny/fivm-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=primeXbunny&repo=fivm-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="fivm-code" /></a>
+<a href="https://github.com/primeXbunny/FTP-VPS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=primeXbunny&repo=FTP-VPS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="FTP-VPS" /></a>
+<a href="https://github.com/primeXbunny/fivm-code"><img src="https://github-stats-extended.vercel.app/api/pin/?username=primeXbunny&repo=fivm-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="fivm-code" /></a>
 
 </div>
 
@@ -124,8 +124,8 @@ Windows launcher with mod approval, capes and admin panel.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=primeXbunny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primeXbunny&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0" alt="top langs" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=primeXbunny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&count_private=true" alt="stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=primeXbunny&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0" alt="top langs" />
 
 <br/>
 
@@ -133,7 +133,7 @@ Windows launcher with mod approval, capes and admin panel.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=primeXbunny&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00f5a0&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
+<img src="https://github-activity-graph.vercel.app/graph?username=primeXbunny&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00f5a0&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
 
 </div>
 
@@ -161,7 +161,7 @@ Windows launcher with mod approval, capes and admin panel.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=primeXbunny&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+<img src="https://github-trophy-jagratadeb.vercel.app/?username=primeXbunny&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
 
 </div>
 
