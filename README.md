@@ -27,7 +27,7 @@
 ```ts
 const primeXbunny = {
   name: "Farhan",
-  handle: "primex",
+  handle: "primeXbunny",
   role: "Founder & Operator @ PrimeX Anarchy",
   since: 2020,
   os: "Kali Linux (bunny 🐰)",
@@ -108,11 +108,11 @@ Windows launcher with mod approval, capes and admin panel.
 
 <div align="center">
 
-<a href="https://github.com/Farhan9hacker/primex-website-v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhan9hacker&repo=primex-website-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="primex-website-v2" /></a>
-<a href="https://github.com/Farhan9hacker/cinema-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhan9hacker&repo=cinema-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="cinema-bot" /></a>
+<a href="https://github.com/primeXbunny/primex-website-v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=primeXbunny&repo=primex-website-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="primex-website-v2" /></a>
+<a href="https://github.com/primeXbunny/cinema-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=primeXbunny&repo=cinema-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="cinema-bot" /></a>
 <br/>
-<a href="https://github.com/Farhan9hacker/FTP-VPS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhan9hacker&repo=FTP-VPS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="FTP-VPS" /></a>
-<a href="https://github.com/Farhan9hacker/fivm-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhan9hacker&repo=fivm-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="fivm-code" /></a>
+<a href="https://github.com/primeXbunny/FTP-VPS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=primeXbunny&repo=FTP-VPS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="FTP-VPS" /></a>
+<a href="https://github.com/primeXbunny/fivm-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=primeXbunny&repo=fivm-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="fivm-code" /></a>
 
 </div>
 
@@ -124,16 +124,16 @@ Windows launcher with mod approval, capes and admin panel.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Farhan9hacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan9hacker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0" alt="top langs" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=primeXbunny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primeXbunny&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan9hacker&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5a0&fire=ff6b35&currStreakLabel=00f5a0" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=primeXbunny&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5a0&fire=ff6b35&currStreakLabel=00f5a0" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhan9hacker&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00f5a0&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=primeXbunny&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00f5a0&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
 
 </div>
 
@@ -141,19 +141,17 @@ Windows launcher with mod approval, capes and admin panel.
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Arcade
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primeXbunny/primeXbunny/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primeXbunny/primeXbunny/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/primeXbunny/primeXbunny/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primeXbunny/primeXbunny/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primeXbunny/primeXbunny/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Arcade" src="https://raw.githubusercontent.com/primeXbunny/primeXbunny/pacman-output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
 </div>
-
-<sub>Requires the snake workflow (`.github/workflows/snake.yml`), included alongside this README.</sub>
 
 <br/>
 
@@ -163,7 +161,7 @@ Windows launcher with mod approval, capes and admin panel.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Farhan9hacker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=primeXbunny&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -176,9 +174,9 @@ Windows launcher with mod approval, capes and admin panel.
 <div align="center">
 
 <a href="https://github.com/primeXbunny"><img src="https://img.shields.io/badge/GitHub-primeXbunny-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Discord-PrimeX%20Anarchy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-PrimeX-00f5a0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.gg/pxa"><img src="https://img.shields.io/badge/Discord-PrimeX%20Anarchy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://primexanarchy.net"><img src="https://img.shields.io/badge/Website-PrimeX-00f5a0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+<a href="mailto:gamexbunny444@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -191,11 +189,3 @@ Windows launcher with mod approval, capes and admin panel.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%" alt="footer" />
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primexbunny/primexbunny/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primexbunny/primexbunny/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/primexbunny/primexbunny/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
