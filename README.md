@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · farhan9hacker</sub></p>
+<p><sub>RECRUITER SIGNAL BRIEF · BunnY</sub></p>
 <h1>BunnY</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Founder Of Primex Anarchy</p>
