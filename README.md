@@ -1,115 +1,201 @@
+<!-- Animated header -->
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · BunnY</sub></p>
-<h1>BunnY</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Founder Of Primex Anarchy</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=primeXbunny&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Developer%20%E2%80%A2%20CTF%20Player&descAlignY=58&descSize=20" width="100%" alt="header" />
 
-<p><a href="https://github.com/farhan9hacker">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/151754460?u=d866e6b78ae3742f8d4268578b1df482c485f012&amp;v=4" width="180" alt="BunnY GitHub avatar" />
-</td>
-</tr>
-</table>
+<!-- Typing animation -->
+<a href="https://github.com/primeXbunny">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Farhan+aka+primeXbunny;Founder+of+PrimeX+Anarchy+%E2%9B%8F%EF%B8%8F;Minecraft+Plugin+%26+Web+Developer;Linux+%7C+Docker+%7C+Cloudflare+%7C+Pterodactyl;Playing+%26+building+CTF+challenges+%F0%9F%9A%A9;Building+servers+that+never+sleep+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=primeXbunny&label=Profile%20Views&color=00f5a0&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/primeXbunny?style=for-the-badge&logo=github&color=00f5a0&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/github/stars/primeXbunny?style=for-the-badge&logo=github&color=ffd33d&labelColor=0d1117" alt="stars" />
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<br/>
 
-<table width="100%">
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/hacker.gif" alt="hacker" />
+
+```ts
+const primeXbunny = {
+  name: "Farhan",
+  handle: "primex",
+  role: "Founder & Operator @ PrimeX Anarchy",
+  since: 2020,
+  os: "Kali Linux (bunny 🐰)",
+  languages: ["English", "हिन्दी", "മലയാളം"],
+  focus: ["Server Administration", "Plugin Development", "Web Development", "Community Management"],
+  hobbies: ["CTF", "Network Security", "Automation"],
+  currentlyBuilding: ["PrimeX Launcher", "PrimeX Shield"],
+  funFact: "I run an anarchy server — chaos is a feature 😈",
+};
+```
+
+- ⛏️ Running **PrimeX Anarchy**, a Minecraft anarchy server network, since **2020**
+- 🛡️ Building **PrimeX Shield**, anti-cheat and fair-play infrastructure
+- 🚀 Building **PrimeX Launcher**, a custom launcher with mod approval, capes and an admin panel
+- 🚩 Solving and building **CTF** challenges
+- 🌐 Fluent in **English · Hindi · Malayalam**
+
+<br/>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nodejs,java,kotlin,bash&perline=10" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,git,github,discord,kali,vscode,idea&perline=10" alt="tools" />
+
+</div>
+
+<details>
+<summary><b>⚡ Skills at a glance</b></summary>
+<br/>
+
+| Area | What I do |
+|------|-----------|
+| 🖥️ **Server Admin** | Linux VPS, Pterodactyl Panel, Docker, FTP/VPS workflows |
+| 🔌 **Plugin Dev** | Paper/Spigot plugins, custom anti-cheat, automation |
+| 🌍 **Web Dev** | Websites, admin panels, branding |
+| 🔐 **Security** | Network security, CTF, Cloudflare / DNS hardening |
+| 💬 **Community** | Discord administration, moderation, community growth |
+
+</details>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · HTML · Python</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>155 contributions · 19 active days</p></td>
-</tr>
-</table>
+<td align="center" width="33%">
 
-<p><sub>Founder Of Primex Anarchy</sub></p>
+### ⛏️ PrimeX Anarchy
+Minecraft anarchy server network, running since 2020.
 
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>155</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=farhan9hacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F151754460%3Fu%3Dd866e6b78ae3742f8d4268578b1df482c485f012%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=farhan9hacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F151754460%3Fu%3Dd866e6b78ae3742f8d4268578b1df482c485f012%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="BunnY GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=farhan9hacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F151754460%3Fu%3Dd866e6b78ae3742f8d4268578b1df482c485f012%26v%3D4&repos=farhan9hacker%2Fcinema-bot%2Cfarhan9hacker%2Fprimex-website-v2%2Cfarhan9hacker%2FFTP-VPS%2Cfarhan9hacker%2Ffivm-code&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=farhan9hacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F151754460%3Fu%3Dd866e6b78ae3742f8d4268578b1df482c485f012%26v%3D4&repos=farhan9hacker%2Fcinema-bot%2Cfarhan9hacker%2Fprimex-website-v2%2Cfarhan9hacker%2FFTP-VPS%2Cfarhan9hacker%2Ffivm-code&v=recruiter-projects-1&mode=dark" width="100%" alt="BunnY selected projects" />
-</picture>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Farhan9hacker/cinema-bot">cinema-bot</a></h3>
-<p>A selected public project.</p>
-<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Farhan9hacker/cinema-bot">Read the repository →</a></p>
+<td align="center" width="33%">
+
+### 🛡️ PrimeX Shield
+Anti-cheat and fair-play infrastructure.
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 PrimeX Launcher
+Windows launcher with mod approval, capes and admin panel.
+
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Farhan9hacker/primex-website-v2">primex-website-v2</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Farhan9hacker/FTP-VPS">FTP-VPS</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Farhan9hacker/fivm-code">fivm-code</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
+</div>
 
-<h2>Technical toolkit</h2>
+<div align="center">
 
-<p align="center">
+<a href="https://github.com/Farhan9hacker/primex-website-v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhan9hacker&repo=primex-website-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="primex-website-v2" /></a>
+<a href="https://github.com/Farhan9hacker/cinema-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhan9hacker&repo=cinema-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="cinema-bot" /></a>
+<br/>
+<a href="https://github.com/Farhan9hacker/FTP-VPS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhan9hacker&repo=FTP-VPS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="FTP-VPS" /></a>
+<a href="https://github.com/Farhan9hacker/fivm-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhan9hacker&repo=fivm-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0" alt="fivm-code" /></a>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Farhan9hacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan9hacker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan9hacker&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5a0&fire=ff6b35&currStreakLabel=00f5a0" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhan9hacker&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00f5a0&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=farhan9hacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F151754460%3Fu%3Dd866e6b78ae3742f8d4268578b1df482c485f012%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=farhan9hacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F151754460%3Fu%3Dd866e6b78ae3742f8d4268578b1df482c485f012%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="BunnY technology stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primeXbunny/primeXbunny/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primeXbunny/primeXbunny/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/primeXbunny/primeXbunny/output/github-snake-dark.svg" />
 </picture>
-</p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>67% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>10% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>9% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>9% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
-</tr>
-</table>
+</div>
 
-<h2>Consistency signal</h2>
+<sub>Requires the snake workflow (`.github/workflows/snake.yml`), included alongside this README.</sub>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=farhan9hacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F151754460%3Fu%3Dd866e6b78ae3742f8d4268578b1df482c485f012%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=farhan9hacker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F151754460%3Fu%3Dd866e6b78ae3742f8d4268578b1df482c485f012%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="BunnY contribution activity" />
+<br/>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Farhan9hacker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/primeXbunny"><img src="https://img.shields.io/badge/GitHub-primeXbunny-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Discord-PrimeX%20Anarchy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-PrimeX-00f5a0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%22Chaos+is+a+ladder.%22+%F0%9F%9A%80;Thanks+for+stopping+by!+%E2%9C%A8" alt="footer typing" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%" alt="footer" />
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primexbunny/primexbunny/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primexbunny/primexbunny/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/primexbunny/primexbunny/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-</p>
 
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/farhan9hacker">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>BunnY · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+###
